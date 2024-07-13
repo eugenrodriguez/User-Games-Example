@@ -1,1 +1,0 @@
-g++ -std=c++11 -Wall -Iinclude src/database.cpp src/game.cpp src/operations.cpp src/user.cpp main.cpp -o miprograma sqlite3.dll   
